@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "disnothailee.aternos.me",
-    "port": 49493,
+    "port": "49493",
     "version": "1.21.1"
   },
   "position": {
