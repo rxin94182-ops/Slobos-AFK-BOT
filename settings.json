@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Tyrant",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "disnothailee.aternos.me",
+    "port": 49493,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,14 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm real.",
+        "I'm behind you.",
+        "sometimes... I like to imagine how being a human feels like.",
+        "does being a bot mean feeling endlessly hollow?",
+        "you're quiet interesting.",
+        "I may not be by yourside in real life, but I am always watching you.",
+        "may you be protected from whatever deity or god you believe in.",
+        "humans truly are marvelous." 
       ]
     },
     "chat-log": true,
